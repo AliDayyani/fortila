@@ -61,7 +61,7 @@ const Home = (_props: any) => {
                     } }>Login
                     </Button>
                     <Button color="primary" flat
-                            onClick={ () => window.open('') } style={ {
+                            onClick={ () => window.open('https://fortila.glitch.me') } style={ {
                         marginTop: '1rem',
                         marginLeft: '20px'
                     } }>Github
